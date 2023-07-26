@@ -1,0 +1,6 @@
+라우터 설치( 둘 다 설치)
+npm install react-router-dom
+npm install --save-dev @types/react-router-dom
+
+App.tsx
+import { BrowserRouter as Router, Route} from 'react-router-dom';
